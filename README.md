@@ -1,4 +1,4 @@
-# Secure EC2 Instance Setup with Terraform
+# Secure AWS EC2 Instance Setup with Terraform
 
 This project demonstrates how to use Terraform to set up a secure EC2 instance on AWS. The configuration includes creating a Security Group to allow controlled SSH and HTTP access and restrict all other traffic for enhanced security. Additionally, key variables are defined to customize the instance type, key-pair, AMI, and VPC.
 
